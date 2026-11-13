@@ -215,7 +215,7 @@ Student-Performance-EDA/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/GauravPrabhu234/Student-Performace-Predictor.git
 ```
 
 ### 2. Navigate to the Project Directory
