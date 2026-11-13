@@ -1,5 +1,4 @@
 # Student-Performace-Predictor
-# Student Performance Analysis — Exploratory Data Analysis (EDA)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas)
